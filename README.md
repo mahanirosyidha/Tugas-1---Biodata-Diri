@@ -6,8 +6,6 @@ Tugas-1---Biodata-Diri
 		<title>biodata dalam paragraf</title>
 	</head>
 
-	 <body background="hani.jpg"/>
-		<img border="20" img src="bee.png"/>
 		<hr line color="blue"/>
 		<hr line color="pink"/>
 
