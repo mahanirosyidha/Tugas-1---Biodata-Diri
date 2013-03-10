@@ -1,10 +1,11 @@
 Tugas-1---Biodata-Diri
 ======================
-
+<!DOCTYPE html>
 <html>
   <head>
 		<title>biodata dalam paragraf</title>
 	</head>
+	<body>
 
 		<hr line color="blue"/>
 		<hr line color="pink"/>
